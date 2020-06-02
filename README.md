@@ -1,7 +1,7 @@
 # Graph
 
 ## How execute the code?
-> python grafos.py
+> python graph.py
 
 ## functional algorithms
 
